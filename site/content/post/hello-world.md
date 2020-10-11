@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2020-10-11T22:08:38.863Z
-description: Fellow Men
+description: Fellow men.
 image: img/red-bird-cardinal-spirit-animal-totem-symbolism-and-meaning.jpg
 ---
 **I have a dream, one day, bird shall go to the moon. We do this not because it is easy but because it is hard.**
